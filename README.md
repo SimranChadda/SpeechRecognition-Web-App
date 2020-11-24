@@ -5,4 +5,6 @@ This web application is extremely valuable for those people who have difficulty 
 This application can be also be a time saviour for both students and teachers as it will assist them in minimising writing efforts significantly!
 
 Below is the screenshot to get the feel of this beautiful SpeechTexter web app!
+
+
 ![](Screenshot.png)
